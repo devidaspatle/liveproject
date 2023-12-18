@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	padding:0px;
+	margin:0px;
+	font-size:12px;
+	color:#999999;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	background:url(image/bg_img.jpg) repeat-x #000000;
+	line-height:1.6em;
+}
+
+.menu
+{
+	color:#000000;
+	text-align:center;
+	line-height:30px;
+}
+
+.menu a
+{
+	color:#000000;
+	text-decoration:none;
+}
+
+.menu a:hover
+{
+	color:#ffffff;
+	text-decoration:none;
+	background-color:#000000;
+	display:block;
+}
+
+#menu
+{
+	color:#ffffff;
+	text-decoration:none;
+	background-color:#000000;
+	display:block;
+}
+
+.footer
+{
+	color:#999999;
+}
+
+.footer a
+{
+	color:#999999;
+	text-decoration:none;
+}
+
+.footer a:hover
+{
+	color:#999999;
+	text-decoration:underline;
+}

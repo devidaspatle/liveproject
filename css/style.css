@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	background-color:#292728;
+	margin:0px;
+	padding:0px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:14px;
+	color:#333333;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height:1.6em;
+}
+
+.top_menu
+{
+	color:#000000;
+	
+	text-align:center;
+}
+
+.top_menu a
+{
+	color:#000000;
+	
+	text-decoration:none;
+}
+
+.top_menu a:hover
+{
+	color:#ff0000;
+	
+}
+
+.nav
+{
+	color:#000000;
+	line-height:35px;
+	text-align:center;
+}
+
+.nav a
+{
+	color:#000000;
+	text-decoration:none;
+	
+}
+
+.nav a:hover
+{
+	color:#000000;
+	text-decoration:none;
+	background:url(/web/20161028205717im_/http://vishalpaints.com/image/menu-bg_ofver.jpg) repeat-x;
+	display:block;
+
+}
+
+.contain_td{ padding:20px 25px 20px; 25px;}
+
+.footer_menu
+{
+	color:#999999;
+	text-align:center;
+}
+
+.footer_menu a
+{
+	color:#999999;
+	text-decoration:none;
+}
+
+.footer_menu a:hover
+{
+	color:#ffffff;
+	text-decoration:underline;
+}
+/*
+     FILE ARCHIVED ON 20:57:17 Oct 28, 2016 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:12:40 Sep 16, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  RedisCDXSource: 33.26
+  LoadShardBlock: 56.415 (3)
+  exclusion.robots: 0.163
+  PetaboxLoader3.resolve: 98.793
+  CDXLines.iter: 18.373 (3)
+  captures_list: 112.269
+  esindex: 0.012
+  PetaboxLoader3.datanode: 63.854 (4)
+  load_resource: 136.969
+  exclusion.robots.policy: 0.151
+*/
